@@ -1,5 +1,5 @@
 """
-My soulution to Rosalind problem 'Strings and Lists'
+My solution to Rosalind problem 'Strings and Lists'
 
 ID: INI3
 Title: Strings and Lists

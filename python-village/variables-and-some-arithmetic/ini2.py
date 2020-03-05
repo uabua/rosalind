@@ -1,5 +1,5 @@
 """
-My soulution to Rosalind problem 'Variables and Some Arithmetic'
+My solution to Rosalind problem 'Variables and Some Arithmetic'
 
 ID: INI2
 Title: Variables and Some Arithmetic

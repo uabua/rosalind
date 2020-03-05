@@ -1,5 +1,5 @@
 """
-My soulution to Rosalind problem 'Conditions and Loops'
+My solution to Rosalind problem 'Conditions and Loops'
 
 ID: INI4
 Title: Conditions and Loops

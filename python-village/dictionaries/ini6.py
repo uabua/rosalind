@@ -1,5 +1,5 @@
 """
-My soulution to Rosalind problem 'Dictionaries'
+My solution to Rosalind problem 'Dictionaries'
 
 ID: INI6
 Title: Dictionaries

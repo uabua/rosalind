@@ -1,5 +1,5 @@
 """
-My soulution to Rosalind problem 'Working with Files'
+My solution to Rosalind problem 'Working with Files'
 
 ID: INI5
 Title: Working with Files

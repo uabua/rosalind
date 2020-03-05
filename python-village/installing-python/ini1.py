@@ -1,5 +1,5 @@
 """
-My soulution to Rosalind problem 'Installing Python'
+My solution to Rosalind problem 'Installing Python'
 
 ID: INI1
 Title: Installing Python
