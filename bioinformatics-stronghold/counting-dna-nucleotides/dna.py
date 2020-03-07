@@ -14,7 +14,8 @@ def nucleotides_counter(dna_string):
         dna_string {str}: DNA string (whose alphabet contains the symbols 'A', 'C', 'G', and 'T')
     
     Returns:
-        str: four integers (separated by spaces) counting the respective number of times that the symbols 'A', 'C', 'G', and 'T' occur in dna_string
+        str: four integers (separated by spaces) counting the respective number of times that the symbols 
+        'A', 'C', 'G', and 'T' occur in dna_string
     """
     adenine = dna_string.count("A")
     cytosine = dna_string.count("C")
