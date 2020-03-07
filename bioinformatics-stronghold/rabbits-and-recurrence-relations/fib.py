@@ -21,6 +21,5 @@ def count_rabbits(month, pair):
     """
     if month == 1 or month == 2:
         return 1
-
     else:
         return count_rabbits(month-1, pair) + count_rabbits(month-2, pair) * pair
