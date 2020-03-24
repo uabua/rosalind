@@ -11,6 +11,7 @@ This repository contains my solutions for the [Rosalind](http://rosalind.info) c
 ## Contents
 
 * [Python Village](https://github.com/uabua/rosalind/tree/master/python-village)
+* [Bioinformatics Stronghold](https://github.com/uabua/rosalind/tree/master/bioinformatics-stronghold)
 * *to be updated soon...*
 
 ---
