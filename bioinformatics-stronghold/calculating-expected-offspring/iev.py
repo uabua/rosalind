@@ -16,7 +16,7 @@ probabilities = [1, 1, 1, 0.75, 0.5, 0]
 
 def get_expected_offspring(couples_string):
     """
-    Counts the expected number of offspring displaying the dominant phenotype in the next generation, 
+    Calculates the expected number of offspring displaying the dominant phenotype in the next generation, 
     under the assumption that every couple has exactly two offspring.
 
     Args:
@@ -25,7 +25,5 @@ def get_expected_offspring(couples_string):
     Returns:
         float: expected offspring
     """
-
     couples = map(int, couples_string.split())
     return sum([2 * probability * couple for probability, couple in zip(probabilities, couples)])
-        
