@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Strings and Lists'
-
 ID: INI3
 Title: Strings and Lists
 URL: http://rosalind.info/problems/ini3/

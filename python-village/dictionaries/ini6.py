@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Dictionaries'
-
 ID: INI6
 Title: Dictionaries
 URL: http://rosalind.info/problems/ini6/

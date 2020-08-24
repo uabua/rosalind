@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Conditions and Loops'
-
 ID: INI4
 Title: Conditions and Loops
 URL: http://rosalind.info/problems/ini4/

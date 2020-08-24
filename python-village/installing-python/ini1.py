@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Installing Python'
-
 ID: INI1
 Title: Installing Python
 URL: http://rosalind.info/problems/ini1/

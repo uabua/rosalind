@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Working with Files'
-
 ID: INI5
 Title: Working with Files
 URL: http://rosalind.info/problems/ini5/
