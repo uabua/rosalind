@@ -47,5 +47,3 @@ def get_total(protein):
         total *= len(rna_codon_dict[character])
 
     return (total * 3) % 1000000 # times 3 because of 3 possible stop codons
-
-        
