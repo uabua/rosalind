@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Counting Point Mutations'
-
 ID: HAMM
 Title: Counting Point Mutations
 URL: http://rosalind.info/problems/hamm/

@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Complementing a Strand of DNA'
-
 ID: REVC
 Title: Complementing a Strand of DNA
 URL: http://rosalind.info/problems/revc/

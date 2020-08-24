@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Calculating Protein Mass'
-
 ID: PRTM
 Title: Calculating Protein Mass
 URL: http://rosalind.info/problems/prtm/

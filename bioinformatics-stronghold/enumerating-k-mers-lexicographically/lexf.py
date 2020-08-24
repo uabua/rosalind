@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Enumerating k-mers Lexicographically'
-
 ID: LEXF
 Title: Enumerating k-mers Lexicographically
 URL: http://rosalind.info/problems/lexf/

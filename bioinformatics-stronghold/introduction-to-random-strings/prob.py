@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Introduction to Random Strings'
-
 ID: PROB
 Title: Introduction to Random Strings
 URL: http://rosalind.info/problems/prob/

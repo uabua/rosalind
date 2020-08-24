@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Calculating Expected Offspring'
-
 ID: IEV
 Title: Calculating Expected Offspring
 URL: http://rosalind.info/problems/iev/

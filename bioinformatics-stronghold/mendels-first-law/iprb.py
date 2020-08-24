@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Mendel's First Law'
-
 ID: IPRB
 Title: Mendel's First Law
 URL: http://rosalind.info/problems/iprb/

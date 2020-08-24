@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Consensus and Profile'
-
 ID: CONS
 Title: Consensus and Profile
 URL: http://rosalind.info/problems/cons/

@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Enumerating Gene Orders'
-
 ID: PERM
 Title: Enumerating Gene Orders
 URL: http://rosalind.info/problems/perm/

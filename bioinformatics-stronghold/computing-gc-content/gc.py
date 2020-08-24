@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Computing GC Content'
-
 ID: GC
 Title: Computing GC Content
 URL: http://rosalind.info/problems/gc/

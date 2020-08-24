@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Transcribing DNA into RNA'
-
 ID: RNA
 Title: Transcribing DNA into RNA
 URL: http://rosalind.info/problems/rna/

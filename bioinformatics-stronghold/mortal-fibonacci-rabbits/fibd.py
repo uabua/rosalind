@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Mortal Fibonacci Rabbits'
-
 ID: FIBD
 Title: Mortal Fibonacci Rabbits
 URL: http://rosalind.info/problems/fibd/

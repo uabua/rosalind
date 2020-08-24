@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Finding a Motif in DNA'
-
 ID: SUBS
 Title: Finding a Motif in DNA
 URL: http://rosalind.info/problems/subs/

@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Counting DNA Nucleotides'
-
 ID: DNA
 Title: Counting DNA Nucleotides
 URL: http://rosalind.info/problems/dna/
