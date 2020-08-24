@@ -1,6 +1,4 @@
 """
-My solution to Rosalind problem 'Translating RNA into Protein'
-
 ID: PROT
 Title: Translating RNA into Protein
 URL: http://rosalind.info/problems/prot/
