@@ -46,7 +46,7 @@ def rna_to_protein(rna_string):
     for codon in codons:
         symbol = rna_codon_dict[codon]
 
-        if codon in rna_codon_dict and symbol != "Stop":
+        if symbol != "Stop":
             protein_string += symbol
         elif symbol == "Stop":
             return protein_string
